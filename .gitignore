@@ -1,2 +1,4 @@
 #ignore macOS sepecial 
 .DS_Store
+#ignore vscode feils
+.vscode
